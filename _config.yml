@@ -1,0 +1,15 @@
+title:        万里悲秋长做客
+baseurl:      ""
+paginate:     1
+locale:       "en_US.UTF-8"
+
+author:
+  name:       Luke Huang
+  email:      lukehuang@tuta.com
+
+plugins:
+  - jekyll-paginate
+
+markdown: kramdown
+kramdown:
+  math-engine: katex
